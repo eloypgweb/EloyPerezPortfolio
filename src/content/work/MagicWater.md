@@ -19,7 +19,7 @@ tags:
  En este proyecto contamos con una aplicación web desarrollada para el grado de desarrollo web.
 Está enfocada a una academia de Karate y Artes Marciales, que ofrece cursos e información a través de su web. Cuenta con creación de **cookies y tokens**, **consumo de APIs**, **persistencia de datos** e **inicio de sesión**. 
 
-##### Puedes consultar la memoria realizada para el proyecto [aquí](/public/assets/work/dubomartialarts/DuBoMartialArtsMemoria.pdf).
+##### Puedes consultar la memoria realizada para el proyecto [aquí](/assets/work/dubomartialarts/DuBoMartialArtsMemoria.pdf).
 
 ##### Puedes descargar mi proyecto en mi <a href="https://github.com/eloypgweb/DuBoMartialArts">github</a>.
 
@@ -30,4 +30,4 @@ Está enfocada a una academia de Karate y Artes Marciales, que ofrece cursos e i
 <!--
 <hr>
 
- > Te recuerdo que puedes consultar la memoria del proyecto más detallada haciendo clic [aquí](/public/assets/work/dubomartialarts/DuBoMartialArtsMemoria.pdf) -->
+ > Te recuerdo que puedes consultar la memoria del proyecto más detallada haciendo clic [aquí](/assets/work/dubomartialarts/DuBoMartialArtsMemoria.pdf) -->

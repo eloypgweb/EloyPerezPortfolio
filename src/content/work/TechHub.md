@@ -19,7 +19,7 @@ Está enfocada al ser informativa y aportar algo útil. Es una web informativa q
 
 ##### Puedes acceder a la web de <a href="https://proyecto-1-eloy6lega.firebaseapp.com/">TechHub</a>.
 
-##### Puedes consultar la memoria realizada para el proyecto [aquí](/public/assets/work/techhub/TechHubMemoria.pdf).
+##### Puedes consultar la memoria realizada para el proyecto [aquí](/assets/work/techhub/TechHubMemoria.pdf).
 
 ##### Puedes descargar mi proyecto en mi <a href="https://github.com/eloypgweb/TechHub">github</a>.
 
@@ -31,20 +31,20 @@ Es una **web informativa** que trata sobre **JSON y XML**. Contiene la informaci
 
 También tiene elementos y caracterísiticas de *HTML5 y CSS3* que causa que nuestra web sea atractiva visualmente.
 
-![img1](/public/assets/work/techhub/TechHub1.webp)
+![img1](/assets/work/techhub/TechHub1.webp)
 
 Tenemos información sobre XML, tanto su **historia** como sus **normas y sintaxis** o como **Aplicaciones del XML en el ámbito empresarial**.
 
-![img1](/public/assets/work/techhub/TechHub2.webp)
+![img1](/assets/work/techhub/TechHub2.webp)
 
 Al igual, también está sobre **JSON**. Su **historia, normas y sintaxis y Aplicaciones del XML en el ámbito empresarial**.
 
-![img1](/public/assets/work/techhub/TechHub3.webp)
+![img1](/assets/work/techhub/TechHub3.webp)
 
 Por último, tenemos un **formulario de contacto** por si el cliente tiene dudas. Simplemente introduciendo su email, nombre y sus dudas podría comunicarse con nosotros para que le podamos ayudar en medida de lo posible.
 
-![img1](/public/assets/work/techhub/TechHub4.webp)
+![img1](/assets/work/techhub/TechHub4.webp)
 
 <hr>
 
-> Te recuerdo que puedes consultar la memoria del proyecto más detallada haciendo clic [aquí](/public/assets/work/techhub/TechHubMemoria.pdf)
+> Te recuerdo que puedes consultar la memoria del proyecto más detallada haciendo clic [aquí](/assets/work/techhub/TechHubMemoria.pdf)
