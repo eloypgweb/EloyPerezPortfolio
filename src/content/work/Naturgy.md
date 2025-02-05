@@ -1,19 +1,19 @@
 ---
-title: Magic Water
-publishDate: 2023-11-22 00:00:00
-img: /assets/work/magicwater/magicwater.webp
-img_alt: Magic Water portada.
+title: Naturgy
+publishDate: 2024-10-02 00:00:00
+img: /assets/work/naturgy/naturgy.webp
+img_alt: Naturgy portada.
 description: |
-  Coming soon...
+  Estuve trabajando en el proyecto Naturgy con AEM, colocando componentes y organizandolos. También resolviendo incidencias que iban surgiendo al cliente.
 tags:
   - Diseño
   - Documentación
-  - APIs
-  - Cookies y Tokens
-  - LogIn
+  - AEM
+  - Componentes
+  - Distribución
 ---
 
-# MagicWater
+# Naturgy
 <!-- > Proyecto desarrollado por Eloy Pérez para el grado superior.
 
  En este proyecto contamos con una aplicación web desarrollada para el grado de desarrollo web.

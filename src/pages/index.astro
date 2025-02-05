@@ -60,6 +60,7 @@ const projects = (await getCollection('work'))
 				</header>
 
 				<div class="gallery">
+					<!-- Los mapea y los muestra en función a la fecha de publicación puesta. También está configurado para que muestre los primeros 4 proyectos. -->
 					<Grid variant="offset">
 						{
 							projects.map((project) => (

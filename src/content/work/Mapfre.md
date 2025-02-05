@@ -1,19 +1,18 @@
 ---
-title: Magic Water
-publishDate: 2023-11-22 00:00:00
-img: /assets/work/magicwater/magicwater.webp
-img_alt: Magic Water portada.
+title: Mapfre
+publishDate: 2024-9-02 00:00:00
+img: /assets/work/mapfre/mapfre.webp
+img_alt: Mapfre portada.
 description: |
-  Coming soon...
+  Estuve trabajando en el proyecto Mapfre (Perú, Colombia, República Dominicana y Brazil) haciendo diferentes tareas dentro de él.
 tags:
   - Diseño
   - Documentación
-  - APIs
-  - Cookies y Tokens
-  - LogIn
+  - Interfaces
+  - Funcionalidades
 ---
 
-# MagicWater
+# Mapfre
 <!-- > Proyecto desarrollado por Eloy Pérez para el grado superior.
 
  En este proyecto contamos con una aplicación web desarrollada para el grado de desarrollo web.

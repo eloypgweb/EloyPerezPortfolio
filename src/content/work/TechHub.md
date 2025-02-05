@@ -1,7 +1,7 @@
 ---
 title: TechHub
 publishDate: 2022-11-23 00:00:00
-img: /assets/techhub.webp
+img: /assets/work/techhub/techhub.webp
 img_alt: TechHub portada.
 description: |
   Esta es una web dedicada a informar sobre qué es y para que se usa JSON y XML. Está más enfocada en el diseño que en las funcionalides. Busca ser una web atractiva, minimalista y sencilla.

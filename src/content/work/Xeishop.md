@@ -1,7 +1,7 @@
 ---
 title: Xeishop
-publishDate: 2023-12-06 00:00:00
-img: /assets/xeishop.webp
+publishDate: 2022-12-06 00:00:00
+img: /assets/work/xeishop/xeishop.webp
 img_alt: Xeishop portada.
 description: |
   Este es un proyecto desarrollado en el grado. Consiste en un ecommerce inspirado en las tiendas del grupo Inditex "Zara" o "Pull&Bear"

@@ -1,7 +1,7 @@
 ---
 title: DuBo Martial Arts
 publishDate: 2023-11-20 00:00:00
-img: /assets/dubomartialarts.webp
+img: /assets/work/dubomartialarts/dubomartialarts.webp
 img_alt: DuBo Martial Arts portada.
 description: |
   Es una aplicación web para una empresa llamada DuBo Martial Arts, la cual quiere ofrecer sus cursos de manera online. El cliente puede ver partes de la web sin iniciar sesión, y otras requerirán que la sesión esté iniciada. Se crean cookies, tokens, se consume una API custom (api propia) y cuenta con un carrito de compra para los cursos añadidos.
